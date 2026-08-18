@@ -1,3 +1,7 @@
 siddu ❤️
+<<<<<<< HEAD
 Good
 changes dev2
+=======
+Good
+>>>>>>> origin/master
